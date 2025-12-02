@@ -24,8 +24,8 @@
   <a href="mailto:devhub-community@outlook.com" target="_blank">
 <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/> 
   </a>
----
 
+---
 ### Tech Stack & Tools we uesd in DevHub Community
 
 <p align="center">
