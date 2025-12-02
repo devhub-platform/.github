@@ -31,3 +31,23 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,symfony,php,js,dart,css,ts,vite,github,py,tensorflow,git,html,mysql,anaconda,notion,phpstorm,pycharm,pytorch,firebase,postman,flutter,tailwind,bootstrap,vue,react,docker,ubuntu,npm,vscode,linux,devto,stackoverflow,figma,aws,sqlite,githubactions,bash&perline=8" />
 </p>
+
+---
+## 🔑 Key Features
+
+- **Core features** including writing articles, starting discussions, and adding reactions & comments — inspired by platforms like **dev.to**, **medium.com**, and **stackoverflow.com**.  
+- **Real-time chat** to help developers communicate and collaborate instantly.  
+- **Trending tech topics** organized by curated, dynamic tags.  
+- **AI-powered explanations** that simplify and clarify technical articles.  
+- **Integrated code editor & code blocks** for testing and executing code snippets (powered by **Piston API**).  
+- **Personalized content recommendations** based on user interests and activity.  
+- **Advanced semantic search** for highly accurate content discovery (powered by **Algolia**).  
+- **Developer discussions & Q&A** for community-driven problem solving.  
+- **Real-time notifications** for reactions, comments, and new content from followed users.  
+- **Support for videos** and integrated educational resources, plus article preview support.  
+- **Comprehensive profile & dashboard**, including analytics for views, comments, and reactions.  
+- **AI-powered image generation** from selected article text to enhance content creation.  
+- **Achievement badges** such as _Top Contributor_ and _Helpful Commenter_ (Beta).  
+- **AI Speech-to-Text** support for writing articles — try the [Speech to Text Converter](https://quillbot.com/tools/speech-to-text).  
+- **Organized technology & skill categorization** with clickable tags like **#git**, **#laravel**, **#js**, and more.  
+
